@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnetExtensions", "DnetExtensions.csproj", "{FBC3B953-FDAC-4B81-873C-94BF8AA547AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC3B953-FDAC-4B81-873C-94BF8AA547AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC3B953-FDAC-4B81-873C-94BF8AA547AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC3B953-FDAC-4B81-873C-94BF8AA547AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC3B953-FDAC-4B81-873C-94BF8AA547AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
